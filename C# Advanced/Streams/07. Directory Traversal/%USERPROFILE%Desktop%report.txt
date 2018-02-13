@@ -1,0 +1,12 @@
+.html
+--index.html - 0.259765625kb
+--error.html - 0.1689453125kb
+--info.html - 0.15234375kb
+.docx
+--03. Streams-Exercise.docx - 515.16015625kb
+.mp4
+--sliceMe.mp4 - 6996.830078125kb
+.png
+--copyMe.png - 9.1357421875kb
+.txt
+--text.txt - 0.12109375kb
