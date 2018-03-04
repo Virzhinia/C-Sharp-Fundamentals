@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Person", "01.Person\01.Person.csproj", "{153D744A-4988-4EB5-926B-3D1DBB01F59F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Book_Shop", "02.Book_Shop\02.Book_Shop.csproj", "{047256F3-F5B1-4E95-BBED-8C3353D92F70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Mankind", "03.Mankind\03.Mankind.csproj", "{8D6AA74C-6021-43A6-ADD3-F9FCA3141977}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Online_Radio_Database", "04.Online_Radio_Database\04.Online_Radio_Database.csproj", "{6C99932B-5A2E-4682-8953-9FE3D13AB435}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Animals", "06.Animals\06.Animals.csproj", "{AE893983-9C3F-49D7-A333-D56FC85B52C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Mordors_Cruel_Plan", "05.Mordor's_Cruel_Plan\05.Mordors_Cruel_Plan.csproj", "{931AE263-B6D1-4638-BB64-9AE554A3F9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{153D744A-4988-4EB5-926B-3D1DBB01F59F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153D744A-4988-4EB5-926B-3D1DBB01F59F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153D744A-4988-4EB5-926B-3D1DBB01F59F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153D744A-4988-4EB5-926B-3D1DBB01F59F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047256F3-F5B1-4E95-BBED-8C3353D92F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047256F3-F5B1-4E95-BBED-8C3353D92F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047256F3-F5B1-4E95-BBED-8C3353D92F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047256F3-F5B1-4E95-BBED-8C3353D92F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6AA74C-6021-43A6-ADD3-F9FCA3141977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6AA74C-6021-43A6-ADD3-F9FCA3141977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6AA74C-6021-43A6-ADD3-F9FCA3141977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6AA74C-6021-43A6-ADD3-F9FCA3141977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C99932B-5A2E-4682-8953-9FE3D13AB435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C99932B-5A2E-4682-8953-9FE3D13AB435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C99932B-5A2E-4682-8953-9FE3D13AB435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C99932B-5A2E-4682-8953-9FE3D13AB435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE893983-9C3F-49D7-A333-D56FC85B52C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE893983-9C3F-49D7-A333-D56FC85B52C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE893983-9C3F-49D7-A333-D56FC85B52C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE893983-9C3F-49D7-A333-D56FC85B52C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931AE263-B6D1-4638-BB64-9AE554A3F9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931AE263-B6D1-4638-BB64-9AE554A3F9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931AE263-B6D1-4638-BB64-9AE554A3F9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931AE263-B6D1-4638-BB64-9AE554A3F9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4E254AF-AA41-4B85-B932-9857093E31B9}
+	EndGlobalSection
+EndGlobal
